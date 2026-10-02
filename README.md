@@ -1,7 +1,7 @@
 # Roblox Universal ESP
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DedZorgana/roblox-universal-esp/main/roblox-universal-esp"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slxzerxs/roblox-universal-esp/refs/heads/main/roblox-universal-esp"))()
 ```
 ## Description
 
